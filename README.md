@@ -40,3 +40,4 @@ As an aside, this repo contains a ETL pipeline to download and clean SEC filings
 3) tqdm
 4) nltk
 5) sklearn
+
